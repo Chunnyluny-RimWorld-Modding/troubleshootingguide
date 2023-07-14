@@ -13,3 +13,5 @@ My goal is to teach you about issues that have been presented in troubleshooting
 
 You can use this guide to decide whether to add or remove particular mods. If you don’t need to learn about that, you can read about external mod managers. If you are interested, you can also learn to make your own RimWorld mod and publish it.
 this document is licensed under MIT License 2023
+
+Go to the wikipage for the rest of the document. there are 2 links provided, 1 that contains the google document which will be currently worked on. And the other link directs you to the published document for better readability. 

@@ -1,4 +1,4 @@
-# troubleshootingguide
+# Troubleshooting guide!
 Troubleshooting guide
 Date start January 2023 - Current July 2023
 I wanted to make a guide or document for people who are trying to figure out how to make their modded game work or want to try to play modded RimWorld. Who is this document useful for? For newcomers who want to play modded RimWorld. But also for people that are playing with mods and have issues troubleshooting why their game isn’t working as intended. You can read about my experience with mods. And if you are curious, you can learn about making your first own RimWorld mod. There is a RimWorld wiki page about modding, but this will be rewritten because it seems to be outdated. So I will provide you with some information I have gathered from the RimWorld discord server. Additional useful links are shared, which you can find at the end of this document. 

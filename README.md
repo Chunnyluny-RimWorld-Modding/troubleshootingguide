@@ -14,9 +14,4 @@ I dedicated my spare time to this project in order to provide information to oth
 My goal is to teach you about issues that have been presented in troubleshooting posts, which will prevent you from making the same mistakes as the people before you. Use caution when interpreting anything. If not convinced, just do your own research. 
 
 You can use this guide to decide whether to add or remove particular mods. If you don’t need to learn about that, you can read about external mod managers. If you are interested, you can also learn to make your own RimWorld mod and publish it. 
-
-Link to the published document, it will be refreshed every 5 minutes.
-https://docs.google.com/document/d/e/2PACX-1vQEvh7OsNuxcl7xS9qgwtjprqDExfFOBbqYiDk48qqeaZ2zXJT3a-gy4twcvFeJXzcSXxfiSC0wHb7a/pub 
-
-Link to GitHub for when this document might be unmaintained: https://github.com/Chunnyluny/troubleshootingguide 
-I licensed this document under MIT License 2023.
+This document is licensed under MIT License 2023.

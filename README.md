@@ -1,7 +1,7 @@
 # Troubleshooting guide!
 Troubleshooting guide
 
-- Creation date of this document: 23–01-23 - 23-07-23 
+- Creation date of this document: 23–01-23
 
 I wanted to make a guide or document for people who are trying to figure out how to make their modded game work or want to play modded RimWorld. Who is this document useful for? For newcomers who want to play modded RimWorld. But also for people that are playing with mods and have issues troubleshooting why their game isn’t working. You can read about my experience with mods. And if you are curious, you can learn about making your first own RimWorld mod. There is a RimWorld wiki page about modding, but I will rewrite this because it seems to be outdated. So I will provide you with some information I have gathered from the RimWorld discord server. Useful links are shared at the end of this document. 
 Links are displayed as bold and underlined words, hover over them, so you can quickly access the information. Also, if you want to skip text, you can use the content table to jump to that part of this document. 

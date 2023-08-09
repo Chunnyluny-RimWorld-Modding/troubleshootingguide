@@ -1,10 +1,19 @@
 # Troubleshooting guide!
-Troubleshooting guide
+[![Built for RimWorld](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainArbitrary%2FManyMedicines%2Fmain%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&style=for-the-badge&label=Built%20for%20RimWorld)](https://rimworldgame.com/)
+&emsp;
+![GitHub issues by-label](https://img.shields.io/github/issues/chunnyluny/troubleshootingguide/issue%2Fbug?style=for-the-badge&logo=github)
+&emsp;
+![GitHub](https://img.shields.io/github/license/chunnyluny/troubleshootingguide?style=for-the-badge&logo=github)
+&emsp;
+[![Discord](https://img.shields.io/discord/688796862639112277?style=for-the-badge&logo=discord)](https://discord.gg/NjbW9RTQkA)
 
-![GitHub](https://img.shields.io/github/license/Chunnyluny/troubleshootingguide?style=for-the-badge&logo=GitHub)
-&emsp; 
+<a href='https://ko-fi.com/I2I8ND4C0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-- Creation date of this document: 23–01-23
+Troubleshooting guide for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgments section](#acknowledgments) below for important information.
+
+23–01-23
+
+---
 
 I wanted to make a guide or document for people who are trying to figure out how to make their modded game work or want to play modded RimWorld. Who is this document useful for? For newcomers who want to play modded RimWorld. But also for people that are playing with mods and have issues troubleshooting why their game isn’t working. You can read about my experience with mods. And if you are curious, you can learn about making your first own RimWorld mod. There is a RimWorld wiki page about modding, but I will rewrite this because it seems to be outdated. So I will provide you with some information I have gathered from the RimWorld discord server. Useful links are shared at the end of this document. 
 Links are displayed as bold and underlined words, hover over them, so you can quickly access the information. Also, if you want to skip text, you can use the content table to jump to that part of this document. 
@@ -20,6 +29,13 @@ You can use this guide to decide whether to add or remove particular mods. If yo
 
 Go here for the [Troubleshooting guide](https://docs.google.com/document/d/1Hw0vxHBisM4mCju-XqGhaDf0O8Eu8ZGbjd7qLjTtrso/edit?usp=sharing) 
 
-Many thanks to everyone that contributed and helped me with this troubleshooting guide, I made sure it is on my GitHub page as well if I don’t want to maintain this document. I hope you learned a lot and stay up to date, you are allowed to share this document with others. Also feedback is truly welcome on my GitHub page as an issue or in the discussion page. 
+Many thanks to everyone that contributed and helped me with this troubleshooting guide, this document is found here with the license to make sure, people know if they may continue my work, if I may discontinue in the future. This includes giving me Credit for all the work, thank you for understanding. 
+
+I hope you learned a lot and stay up to date, you are allowed to share this document with others. Any feedback is truly welcome by submitting an issue or opening a thread in the discussionpage.
+
+---
+
+# Acknowledgement
+Portions of the materials used to create guide are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 
 This document is licensed under MIT License 2023. 

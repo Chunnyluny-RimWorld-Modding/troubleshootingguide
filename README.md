@@ -1,7 +1,7 @@
 # Troubleshooting guide!
 [![Built for RimWorld](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainArbitrary%2FManyMedicines%2Fmain%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&style=for-the-badge&label=Built%20for%20RimWorld)](https://rimworldgame.com/)
 &emsp;
-![GitHub issues by-label](https://img.shields.io/github/issues/chunnyluny/troubleshootingguide/issue%2Fbug?style=for-the-badge&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/chunnyluny/troubleshootingguide?style=for-the-badge&logo=github)
 &emsp;
 ![GitHub](https://img.shields.io/github/license/chunnyluny/troubleshootingguide?style=for-the-badge&logo=github)
 &emsp;

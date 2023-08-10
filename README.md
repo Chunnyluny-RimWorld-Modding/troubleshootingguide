@@ -6,8 +6,11 @@
 ![GitHub](https://img.shields.io/github/license/chunnyluny/troubleshootingguide?style=for-the-badge&logo=github)
 &emsp;
 [![Discord](https://img.shields.io/discord/688796862639112277?style=for-the-badge&logo=discord)](https://discord.gg/NjbW9RTQkA)
+&emsp;
+<a href='https://ko-fi.com/I2I8ND4C0' target='_blank'><img alt="Buy me a coffee" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-purple?logo=ko-fi&style=for-the-badge"/>
+</a>
 
-<a href='https://ko-fi.com/I2I8ND4C0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+---
 
 Troubleshooting guide for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgments section](#acknowledgments) below for important information.
 

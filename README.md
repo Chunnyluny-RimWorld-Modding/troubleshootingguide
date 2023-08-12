@@ -12,7 +12,7 @@
 
 ---
 
-Troubleshooting guide for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgments section](#acknowledgments) below for important information.
+Troubleshooting guide for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgments section](#acknowledgements) below for important information.
 
 Since 23–01-23
 
@@ -35,15 +35,16 @@ Go here for the [Troubleshooting guide](https://docs.google.com/document/d/1Hw0v
 
 For quick access: find your external mod manager tool described in the document here: 
 - [RimPy](https://github.com/rimpy-custom/RimPy/releases) 
-- [RimSort](https://github.com/RimSort/RimSort) (I'm contributor to the project) You can even use both if you want.
-
+- [RimSort](https://github.com/RimSort/RimSort) (I'm contributor to the project)
+- You can combine RimPy and RimSort to use features from both programs.
+  
 Many thanks to everyone that contributed and helped me with this troubleshooting guide, this document is found here with the license to make sure, people know if they may continue my work, if I may discontinue in the future. This includes giving me Credit for all the work, thank you for understanding. 
 
-I hope you learned a lot and stay up to date, you are allowed to share this document with others. Any feedback is truly welcome by submitting an issue or opening a thread in the discussionpage.
+I hope you learned a lot and stay up to date, you are allowed to share this document with others. You can give me feedback by going to the [discussionpage](https://github.com/Chunnyluny/troubleshootingguide/discussions). Preferable is in the document but when you have a lot of feedback you can post it there, thank you for reading.
 
 ---
 
 # Acknowledgement
-Portions of the materials used to create guide are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+Portions of the materials used to create guide are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This documenmt is not official and is not endorsed by Ludeon.
 
 This document is licensed under MIT License 2023. 

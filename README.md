@@ -18,6 +18,10 @@
 
 Welcome at the GitHub page of the troubleshooting guide for the [Ludeon Studios](https://ludeon.com) game [RimWorld](https://rimworldgame.com).
 
+For references to make a RimWorld mod you can go to [RimWorldmod](https://github.com/Chunnyluny/RimWorldMod/wiki) for more information how to use the mod template. 
+
+Also be aware that you need to change the links to your own personal profiles/username/reponames for you to work.
+
 Please see the [Acknowledgements section](#acknowledgements) below for important information and thank word.
 
 Creation date of this document: 23-01-23 - August 2023
@@ -42,7 +46,7 @@ Go here for the [Troubleshooting guide](https://docs.google.com/document/d/1Hw0v
 
 Find your external mod manager tool described in the document here: 
 - [RimPy](https://github.com/rimpy-custom/RimPy/releases) 
-- [RimSort](https://github.com/RimSort/RimSort) (I'm contributor to the project)
+- [RimSort](https://github.com/RimSort/RimSort) (I contribute to this project, if you have any questions)
 
 ---
 

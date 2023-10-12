@@ -1,14 +1,15 @@
-# Troubleshooting guide!
+Welcome to the troubleshooting guide wiki!
+
+![frontpage preview](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide/assets/102756485/cb676c25-a505-4dc5-bbad-157ad10f19e6)
 
 Welcome to the GitHub page of the troubleshooting guide for the [Ludeon Studios](https://ludeon.com) game [RimWorld](https://rimworldgame.com).
 
-For references to make a RimWorld mod you can go to [RimWorldMod](https://github.com/Chunnyluny/RimWorldMod/wiki) for more information how to use the mod template.
-
-Also be sure to replace links to match your personal profile/username/mod name/repo-path for the dynamic buttons.
+For references to make a RimWorld mod, you can go to [RimWorldMod](https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod/wiki) for more information how to use the mod template.
+Also, make sure to replace links to match your personal profile/username/mod name/repo-path for the dynamic buttons.
 
 Please see the [Acknowledgement section](#Acknowledgement) below for important information and thank word.
 
-Creation date of this document: 23-01-23 - current September 2023
+Creation date of this document: 23-01-23 – 13-10-2023
 
 ---
 
@@ -36,10 +37,13 @@ Find your external mod manager tool described in the document here:
 - [RimSort](https://github.com/RimSort/RimSort) (I contribute to this project, if you have any questions)
 
 ## Acknowledgement
-*Portions of the materials used to create the guide are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This document is not official and is not endorsed by Ludeon.*
 
-If you want to give feedback, there are two ways: You can either provide feedback directly on the document itself, or if you have a lot of feedback, post it on the [discussion page](https://github.com/Chunnyluny/troubleshootingguide/discussions). Thanks to all who contributed to this troubleshooting guide. It's on my GitHub page, with its license. Even if I decide to stop in the future, you'll still get credit for your contributions. Also, feel free to link your RimWorld wiki/repository to mine on [GitHub-troubleshooting guide](https://github.com/Chunnyluny/troubleshootingguide), if you would like to.
+_Portions of the materials used to create the guide are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This document is not official and is not endorsed by Ludeon._
 
-Thanks for being part of the RimWorld community, and I hope you can enjoy this document and can troubleshoot your game with success!
+_Feedback and thank word_
+_“If you want to give feedback, there are two ways: You can either provide feedback directly on the document itself, or if you have a lot of feedback, post it on [https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide/discussions](https://github.com/Chunnyluny/troubleshootingguide/discussions)_
 
-*"This document is licensed under the MIT License 2023, which means that if you decide to continue this work, it's appreciated if you mention me in the credits, for my work."*
+_Thanks to all who contributed to this troubleshooting guide. It's on my GitHub page, with its license. Even if I decide to stop in the future, the troubleshooting guide can still be worked on. Also, feel free to reference your troubleshooting guide to mine to get it merged or something. [https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide)_
+_Thank you for your time, and for being part of the RimWorld community._
+
+_“This document is licensed under the MIT License 2023, which means that if you decide to continue this work, it's appreciated if you credit me for my contributions.”_

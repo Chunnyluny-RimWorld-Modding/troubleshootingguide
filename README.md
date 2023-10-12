@@ -22,6 +22,8 @@
 
 ---
 
+![frontpage preview](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide/assets/102756485/ea78be89-24d2-450f-b73d-71795d004bc0)
+
 Welcome at the GitHub page of the troubleshooting guide for the [Ludeon Studios](https://ludeon.com) game [RimWorld](https://rimworldgame.com).
 
 For references to make a RimWorld mod you can go to [RimWorldMod](https://github.com/Chunnyluny/RimWorldMod/wiki) for more information how to use the mod template.
@@ -33,6 +35,7 @@ Please see the [Acknowledgement section](#Acknowledgement) below for important i
 Creation date of this document: 23-01-23 - current September 2023
 
 ---
+
 
 I wanted to make a guide or document for people who are trying to figure out how to make their modded game work or want to play modded RimWorld. To whom is this document
 useful? For newcomers who want to play modded RimWorld. But also for people that are playing with mods and have issues troubleshooting why their game isn’t working.

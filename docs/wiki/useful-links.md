@@ -1,17 +1,24 @@
-In this part, I want to list useful links that are worth looking at, some are discord servers that are great communities and where RimWorld is an active topic. I wanted to make it as clear as possible to find the link you are looking for, so I have put the links in different categories by separating them using horizontal line dividers. If you have found a link that is not in this list, please let me know, so I can add it to the list.
+-In this part, I want to list useful links that are worth looking at, some are discord servers that are great communities and where RimWorld is an active topic. I wanted to make it as clear as possible to find the link you are looking for, so I have put the links in different categories by separating them using horizontal line dividers. If you have found a link that is not in this list, please let me know, so I can add it to the list.
 
 ---
 
 **Invite links to RimWorld related discord servers, worth looking at!**
-- If you want to join RimPy's discord, go to https://discord.gg/J4UyBNZwrF 
-- If you want to join RimSort's discord to contribute or keep up-to-date with the RimSort project, go to: https://discord.gg/aV7g69JmR2
-- If you want to join the official RimWorld server, go to https://discord.gg/rimworld (if the vanity URL doesn’t work, use this link instead. https://discord.gg/K4wQe57)
-- If you want to join the Dubs' server for performance (analyzer) questions, go to: https://discord.gg/y6yzRHy9Eg 
+- If you want to join RimPy's discord, go to https://discord.com/invite/J4UyBNZwrF  
+- If you want to join RimSort's discord to contribute or keep up-to-date with the RimSort project, go to: https://discord.com/invite/aV7g69JmR2
+- If you want to join the official RimWorld server, go to https://discord.gg/rimworld (if the vanity URL doesn’t work, use this link instead) https://discord.com/invite/K4wQe57
+- If you want to learn more about modding, go to https://discord.com/invite/b6EPMhC7QB join this server to learn about XML, C# and art. This server might be an alternative place for your questions related to mods.
+- If you want to commission mod/art/code go to the RimWorld Mod Market: https://discord.com/invite/7befJWr9xS
+- If you want to join Adamas’s workshop, go there for sharing feature requests and bug reports on his discord server: https://discord.com/invite/eTvrVBaGNy
+- if you want to join Brrainz (Harmony, Achtung!, Zombieland etc.) Brrainz's domain. Creator of a number of critically acclaimed mods such as Harmony, Zombieland and Rim GPT, go to https://discord.com/invite/PYMyEcy77h 
+- If you want to join the Dubs' mod server for performance analyzer and bad hygiene, go to: https://discord.com/invite/y6yzRHy9Eg
+- If you are using HAR: Humanoid Alien Race, for anything related to the framework used by the majority of race mods, go to https://discord.com/invite/XMCRj46 
 - If you want to join the Rocket Man+CAI500 server, go to: https://discord.com/invite/MmfarqPKdc
-- If you want to join Mlie’s server: https://discord.com/invite/h5TY6DA 
-  If you want to see mods board (Trello) to stay up-to-date with his mods https://trello.com/c/zmF9YDW1 
-- If you want to join Chunnyluny’s discord server, go to: https://discord.gg/9p8EafwBcs
+- If you want to play Zetrith's Multiplayer, or multiplayer related business, go to https://discord.com/invite/S4bxXpv 
+- If you want to join Mlie’s server: https://dsc.gg/mlie or https://discord.com/invite/h5TY6DA 
+- If you want to see mlies mods updating board (Trello) to stay up-to-date with his mods https://trello.com/c/zmF9YDW1 
+- If you want to join Chunnyluny’s discord server, go to: https://discord.com/invite/NjbW9RTQkA 
 - If you want to see the Trello board for DogApparel mod: https://trello.com/b/PrY9xFn3 
+
 
 ---
 

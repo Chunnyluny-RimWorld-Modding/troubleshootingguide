@@ -1,16 +1,16 @@
 # Table of content 
 Troubleshooting and gameplay enhancement: a guide to modded RimWorld 
 
-Part 1: Intro	
-Part 2: Obsolete mods in 1.5 Update	
-Part 3: Using RimPy or RimSort	
-Part 4: Troubleshooting	
-Part 5: Personal experience with commonly used mods	
-Part 6: More about troubleshooting	
-Part 7: How to make RimWorld mods	
-Part 8: Tweaks Galore and [FSF] FrozenSnowFox tweaks: tweaks list	
-Part 9: Discord servers and useful links	
-Part 10: Acknowledgement and thank word	
+- Part 1: Intro	
+- Part 2: Obsolete mods in 1.5 Update	
+- Part 3: Using RimPy or RimSort	
+- Part 4: Troubleshooting	
+- Part 5: Personal experience with commonly used mods	
+- Part 6: More about troubleshooting	
+- Part 7: How to make RimWorld mods	
+- Part 8: Tweaks Galore and [FSF] FrozenSnowFox tweaks: tweaks list	
+- Part 9: Discord servers and useful links	
+- Part 10: Acknowledgement and thank word	
 
 ## Link to the troubleshooting guide – Google document
 Google doc where you can place reactions is linked here: 

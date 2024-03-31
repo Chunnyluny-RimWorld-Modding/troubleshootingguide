@@ -1,14 +1,16 @@
 # Table of content 
 Troubleshooting and gameplay enhancement: a guide to modded RimWorld 
 
-- Part 1: Intro	
-- Part 2: Using RimPy or RimSort	
-- Part 3: Troubleshooting	
-- Part 4: Personal experience with commonly used mods	
-- Part 5: More about troubleshooting
-- Part 6: Tweaks Galore and [FSF] FrozenSnowFox tweaks: tweaks list
-- Part 7: How to make RimWorld mods	
-- Part 8: Discord servers and useful links
+Part 1: Intro	
+Part 2: Obsolete mods in 1.5 Update	
+Part 3: Using RimPy or RimSort	
+Part 4: Troubleshooting	
+Part 5: Personal experience with commonly used mods	
+Part 6: More about troubleshooting	
+Part 7: How to make RimWorld mods	
+Part 8: Tweaks Galore and [FSF] FrozenSnowFox tweaks: tweaks list	
+Part 9: Discord servers and useful links	
+Part 10: Acknowledgement and thank word	
 
 ## Link to the troubleshooting guide – Google document
 Google doc where you can place reactions is linked here: 
@@ -19,9 +21,9 @@ I choose to not publish it; the published page messed up my formatting. I prefer
 
 - Date of creation, 23-01-2023
 - Font used in document: Arial 10
-- Number of pages 35; depends on your zoom level and your screen resolution, I use the option to adapt the pages to fit my screen.
+- Number of pages 44; depends on your zoom level and your screen resolution, I use the option to adapt the pages to fit my screen.
 
 Make sure you read [README.md](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide#readme)
-Make sure if you have any questions, to submit an issue or open a thread on the [discussion page](https://github.com/Chunnyluny-RimWorl-Modding/troubleshootingguide/discussions)
+Please submit an issue or open a thread on the [discussion page](https://github.com/Chunnyluny-RimWorl-Modding/troubleshootingguide/discussions)
 
-“This document is licensed under the MIT License 2023, which means that if you decide to continue this work, it's appreciated if you credit me for my work.”
+“This document is licensed under the MIT License 2024, which means that if you decide to continue this work, it's appreciated if you credit me for my work.”

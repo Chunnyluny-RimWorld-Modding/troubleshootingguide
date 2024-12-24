@@ -22,7 +22,8 @@
 
 ---
 
-![frontpage preview](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide/assets/102756485/ea78be89-24d2-450f-b73d-71795d004bc0)
+![frontpage preview](https://github.com/user-attachments/assets/2456403a-0898-4de8-852a-f63e579a82d3)
+
 
 - Welcome at the GitHub page of the troubleshooting guide for the [Ludeon Studios](https://ludeon.com) game [RimWorld](https://rimworldgame.com).
 - For references to make a RimWorld mod you can go to [RimWorldMod](https://github.com/Chunnyluny-RimWorld-Modding/RimWorldMod/wiki) for more information how to use the mod template.

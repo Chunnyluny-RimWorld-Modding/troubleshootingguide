@@ -30,11 +30,11 @@
 - Please see the [Acknowledgement section](#Acknowledgement) below for important information and thank word.
 - Please go for more information to the wiki pages https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide/wiki/Hompage-troubleshooting-guide 
 
-Creation date of this document: 23-01-23 - Current March/April 2024
+Creation date of this document: 23-01-23 - Current December 2024
 
 ---
 
-Hey there! So, I decided to make this guide or kind of cheat sheet for folks who are scratching their heads trying to get their modded RimWorld games to work or just want to dive into the modded side of RimWorld. Who's going to find this handy? Well, if you're new to the whole modded RimWorld scene or even if you've been mucking around with mods but can't figure out why things aren't working, this document is for you. I've thrown some thoughts in, about my own modding adventures. Plus, if you're itching to try your hand at making your very own RimWorld mod, I've got some tips on that too.
+Hey there! So, I decided to make this guide or kind of user's manual for people that are trying to get their modded RimWorld games to work or for people that are just interested in the modded side of RimWorld. Who's going to find this handy? Well, if you're new to the whole modded RimWorld scene or even if you've been mucking around with mods but can't figure out why things aren't working, this document is for you. I've thrown some thoughts in about my own modding adventures. Plus, if you're itching to try your hand at making your very own RimWorld mod, I've got some tips on that too.
 
 Now, I know there's a RimWorld modding wiki out there, but this wiki is getting updated to stay up to date with the upcoming 1.5 release. A bunch of what I'm talking about comes from bits and bobs picked up from the RimWorld Discord server. Oh, and make sure to check out Part 9; it's packed with links that are actually useful.
 
